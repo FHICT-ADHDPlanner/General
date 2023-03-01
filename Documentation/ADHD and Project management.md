@@ -5,7 +5,7 @@
   - [Table of contents](#table-of-contents)
   - [Abstract](#abstract)
   - [Introduction](#introduction)
-  - [Materials and Methods](#materials-and-methods)
+  - [Materials and Method](#materials-and-method)
   - [Results](#results)
   - [Conclusion](#conclusion)
   - [References](#references)
@@ -24,9 +24,16 @@ The challenges that adolescents with ADHD face are often within their jobs or ac
 
 Nonetheless, there is not a tool geared specifically towards people with ADHD to customize to their liking, to set goals in and manage what their are working on. The goal of this research is to determine, between a pool of participants, what people with ADHD want within management tool and how they prefer to plan their day, week or project. 
 
+The main research question in this instance is "**What ways of project management work for individuals with Attention Deficit Hyperactivity Disorder?**"
 
+This main question can be divided in subquestions:
+- What motivates someone with ADHD to plan?
+- How does colour use affect planning?
+- What is a more effective way of showing a planning, a day, week or month view and why?
+- How does a list of repeating tasks influence the way people with ADHD plan?
 
-## Materials and Methods
+## Materials and Method
+To get answers to the subquestions and eventually the main question, a survey will be conveyed amongst people with adhd. This survey will consist of multiple questions per subquestion to get a clear overview of the needs and wants of the target audience.  
 
 ## Results
 
