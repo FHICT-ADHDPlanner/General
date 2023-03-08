@@ -4,16 +4,16 @@ As a person with ADHD I want to be able to plan my time better, so my days are m
 
 # User Stories
 ### [US-FR-01] 
-As a user, I want to be able to log into my account on the platform. This will allow me to access my personal planning and make any necessary changes. I expect the login process to be secure and require authentication through my email address and password. 
+*As a user, I want to be able to log into my account on the platform. This will allow me to access my personal planning and make any necessary changes. I expect the login process to be secure and require authentication through my email address and password.*
 
 ### [US-FR-02] 
-As a user, I want to have the ability to create an account on the platform. This will allow me to have a personalized experience and access to additional features and functionalities that are only available to registered users. I expect the account creation process to be simple and straightforward, requiring only basic information such as my name, email address, and a password. 
+*As a user, I want to have the ability to create an account on the platform. This will allow me to have a personalized experience and access to additional features and functionalities that are only available to registered users. I expect the account creation process to be simple and straightforward, requiring only basic information such as my name, email address, and a password.*
 
 ### [US-FR-03] 
 As a user, I want to have the ability to create a new task on the platform. This will allow me to keep track of my to-do list and stay organized. I expect the task creation process to be simple and intuitive, with fields for a task name, description, due date, and priority level. 
 
 ### [US-FR-04] 
-As a user, I want to have the ability to mark a task as completed on the platform. This will allow me to keep track of my progress and feel a sense of accomplishment as I complete tasks. I expect the task completion process to be simple and straightforward, with an option to check off the task as completed in my task list. Additionally, I would like the completed task to be visually distinguished from incomplete tasks, such as by moving it to a separate completed tasks section or changing its color. Once a task is marked as completed, I want to be able to easily view my completed tasks and track my productivity over time.
+As a user, I want to have the ability to mark a task as completed on the platform. This will allow me to keep track of my progress and feel a sense of accomplishment as I complete tasks. I expect the task completion process to be simple and straightforward, with an option to check off the task as completed in my task list. Additionally, I would like the completed task to be visually distinguished from incomplete tasks, such as by moving it to a separate completed tasks section or changing its colour. Once a task is marked as completed, I want to be able to easily view my completed tasks and track my productivity over time.
 
 ### [US-FR-05] 
 As a user, I want to have the ability to send and accept friend requests on the platform. I expect the friend request process to be simple and straightforward, with an option to send a friend request to another user by clicking a button or link on their profile. Additionally, I would like to be able to easily accept or decline the request. Once I have befriended another user, I want to be able to view their profile.
