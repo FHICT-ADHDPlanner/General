@@ -18,7 +18,7 @@ Attention Deficit Hyperactivity Disorder (ADHD) is usually diagnosed in childhoo
 
 The hyperactive and impulsivity facets of the disorder regularly decline during the transition between childhood and adolescense. The attention facet often remains constant or get amplified. The attention deficit often expresses itself in academic and professional situations. The deficit can be a concern, however it is often paired with hyperfocus. When there is an hyperfocus present, it can be trying to focus on anything else but the hyperfocus subject (Testing the relation between ADHD and hyperfocus experiences). This functions the same when in a social enviroment. People with ADHD often have trouble picking up on social cues and continuing conversations if it is not about their prevered subject (Social cognition in attention-deficit hyperactivity disorder (ADHD))
 
-Another facet to consider is the executive disfunction one, which can reflect in poor planning, judgement and emotional control. Executive funtion is referencing the capability to self-regulate. This is the facet that this research is going to be focused on, as it is responsible for the capability to plan, gain gratification, persistence of intention, control of attention and mood (Executive functions in adult with ADHD; ADHD in Adults: A practival guid to evaluation and management, page 156; ).
+Another facet to consider is the executive disfunction one, which can reflect in poor planning, judgement and emotional control. Executive funtion is referencing the capability to self-regulate. This is the facet that this research is going to be focused on, as it is responsible for the capability to plan, gain gratification, persistence of intention, control of attention and mood (Executive functions in adult with ADHD; ADHD in Adults: A practival guid to evaluation and management, page 156;).
 
 The challenges that adolescents with ADHD face are often within their jobs or academics, in part due to poor organisation of time and trouble maintaining routines. These challenges are often met with taking medication to lessen the symptomes of the disorder. However, this is not an option for everyone due to the side effects. This warrents looking for a different options. Another option is therapy, such as Goal Management Training. This can help people with ADHD set goals and manage their projects (Organizational-skills interventions in the treatment of ADHD; An Exploratory Investigation of Goal Management). 
 
@@ -33,7 +33,9 @@ This main question can be divided in subquestions:
 - How does a list of repeating tasks influence the way people with ADHD plan?
 
 ## Materials and Method
-To get answers to the subquestions and eventually the main question, a survey will be conveyed amongst people with adhd. This survey will consist of multiple questions per subquestion to get a clear overview of the needs and wants of the target audience.  
+To get answers to the subquestions and eventually the main question, a survey will be conveyed amongst people with adhd. This survey will consist of a pair of questions per subquestion to get a clear overview of the needs and wants of the target audience.  
+For subquestion one "What motivates someone with ADHD to plan?" the questions will be as follows:
+- g
 
 ## Results
 
