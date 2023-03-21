@@ -35,7 +35,61 @@ This main question can be divided in subquestions:
 ## Materials and Method
 To get answers to the subquestions and eventually the main question, a survey will be conveyed amongst people with adhd. This survey will consist of a pair of questions per subquestion to get a clear overview of the needs and wants of the target audience.  
 For subquestion one "What motivates someone with ADHD to plan?" the questions will be as follows:
-- g
+- What motivates you make a planning?
+  - Achieving goals or objectives
+  - Feeling organized and in control
+  - Saving time or money
+  - Reducing stress or anxiety
+  - Enjoying the planning process
+  - Meeting deadlines or expectations
+  - Other (please specify): _______
+- How do you stay motivated to plan?
+  - Setting specific goals or targets
+  - Breaking tasks down into smaller, manageable steps
+  - Rewarding yourself for completing tasks or milestones
+  - Using tools or apps to track progress and stay organized
+  - Engaging in regular check-ins or reviews to evaluate progress
+  - Seeking feedback or advice from others
+  - Other (please specify): _______
+
+Subquestion two can be divided into two different questions for the survey:
+- How important do you consider color use in planning? 
+  - In a 1 to 10 format
+- In what ways do you think color use affects planning? It can affect:
+  - Mood
+  - Attention drawing
+  - Visual appeal
+  - Usability and accessibility
+  - Readability
+  - Other (please specify): _______
+
+Subquestion three:
+- Which view do you find more effective for planning?
+  - Day view
+  - Week view
+  - Month view
+  - Other (please specify): _______
+- Why do you find that view more effective for planning?
+  - It provides a more detailed and focused view of tasks and activities.
+  - It allows for better visualization and organization of upcoming events or deadlines.
+  - It helps to balance and prioritize tasks over a longer period of time.
+  - It provides a more comprehensive overview of availability and scheduling.
+  - It minimizes the need for frequent updates or changes to the planning.
+  - It allows for easier collaboration or communication with others.
+  - Other (please specify): _______
+
+Subquestion four:
+- Do you use a list of repeating tasks to plan your schedule?
+  - Yes
+  - No
+- How does a list of repeating tasks impact your planning process?
+  - It helps to establish a routine and streamline planning.
+  - It allows for better tracking and management of recurring responsibilities.
+  - It can lead to over-scheduling or a lack of flexibility in planning.
+  - It can become monotonous or repetitive, leading to decreased motivation.
+  - It may not be applicable or useful for all types of tasks or activities.
+  - Other (please specify): _______
+  - Not relevant
 
 ## Results
 
