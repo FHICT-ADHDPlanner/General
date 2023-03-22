@@ -91,6 +91,8 @@ Subquestion four:
   - Other (please specify): _______
   - Not relevant
 
+These questions will be put in a microsoft forms format. This was chosen because it is a reliable way to get answers from the target audience. Another reason was that this can already generate graphs and data analytics for the user. 
+
 ## Results
 
 ## Conclusion
