@@ -98,7 +98,7 @@ The questionaire has been filled in 25 times. In all 25 of these, the user speci
 
 For question 2, What motivates you to make a planning?, the main answer was "Achieving goals or objectives" with 19 picks. However also "Saving time and money", "Reducing stress or anxiety" and "Meeting deadlines or expectations" had a high pickrate with 13 picks each. 
 
-![results of question 2](Question2.png)
+![results of question 2](Images/../../Images/Question2.png)
 
 Question 3, How do you stay motivated to plan?, was more divided in the answers. In the top 3 were the answers:
 
@@ -106,28 +106,28 @@ Question 3, How do you stay motivated to plan?, was more divided in the answers.
 2. Breaking tasks down into smaller,managable steps (13)
 3. Engaging in regular check-ins or reviews to evaluate progress (12)
 
-![results of question 3](Question3.png)
+![results of question 3](Images/../../Images/Question3.png)
 
 When asked how important colour is considered in planning, an average rating of 7,28 was given. With 24%, the most picked number was 6. 
 
-![results of question 4](Question%204.png)
+![results of question 4](Images/../../Images/Question%204.png)
 
 The most important use of colour seems to be "Attention drawing" (16) and "Usability and accessibility" (13). However, it also became more clear that "Mood" (10) is a big factor in choosing what colour to use. Ones mood can als be affected by the colour use, which makes it important to have colour schemes.
 
-![results of question 5](Question5.png)
+![results of question 5](Images/../../Images/Question5.png)
 
 As for what the most efficient way of viewing the schedule is, the opinions were very divided. "Week"(11) did have the most votes but "Day"(6) and "Month" (7) were close. 
 
-![results of question 6](Question6.png)
+![results of question 6](Images/../../Images/Question6.png)
 
 Details were the most chosen reason for prefering a specific way of showing a schedule. Collaboration and visualization were the next highest up. It is important to have multiple options when it comes to planning with ADHD. That way they can chose what works best for them and switch back and forth.
 
-![results of question 7](Question7.png)
+![results of question 7](Images/../../Images/Question7.png)
 
 64% of the users specified that they use recurring tasks, with as the most given reason that it establishes a routine. For the other 36% that do not use recurring tasks, the reason that was most given was that it either becomes monotonous or leads to overscheduling. 
 
-![results of question 8](Question8.png)
-![results of question 9](Question9.png)
+![results of question 8](Images/../../Images/Question8.png)
+![results of question 9](Images/../../Images/Question9.png)
 
 The results are, as expected, spread out. This has to be taken into account when drawing the conclusions.
 
