@@ -1,17 +1,5 @@
 
 # ADHD and Project Management
-## Table of contents
-- [ADHD and Project Management](#adhd-and-project-management)
-  - [Table of contents](#table-of-contents)
-  - [Abstract](#abstract)
-  - [Introduction](#introduction)
-  - [Materials and Method](#materials-and-method)
-  - [Results](#results)
-  - [Conclusion](#conclusion)
-  - [References](#references)
-
-
-## Abstract
 
 ## Introduction
 Attention Deficit Hyperactivity Disorder (ADHD) is usually diagnosed in childhood, with 75% of the diagnosis persisting into adolescense. Around 4 to 6% of adolescents have been diagnosed with ADHD. However, this is the age range where most people are either studying in higher education or working. This means that the disorder can start manifesting itself in new ways, as there are different responsibilities and expectations (Barkley et al., 2008, p. 156; Jensen et al., 2021; Langberg et al., 2013). 
