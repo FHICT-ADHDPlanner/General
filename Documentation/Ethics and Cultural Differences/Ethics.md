@@ -3,7 +3,7 @@ When people think of software development, they often do not immediately think a
 
 One of these unethical practices is the misleadings advertisements for mobile games. These advertisements are all over the internet but do not actually show what the real game is going to be. This way the developers are trying to get consumers to download the game and make money off of it. 
 
-An example of this is:
+An example of this is:<br>
 ![Example of a mobile game ad](Images/../../Images/Ethics1.jpg)
 
 ## Software Engineering Code of Ethics
