@@ -2,27 +2,27 @@
 # ADHD and Project Management
 
 ## Introduction
-Attention Deficit Hyperactivity Disorder (ADHD) is usually diagnosed in childhood, with 75% of the diagnosis persisting into adolescense. Around 4 to 6% of adolescents have been diagnosed with ADHD. However, this is the age range where most people are either studying in higher education or working. This means that the disorder can start manifesting itself in new ways, as there are different responsibilities and expectations (Barkley et al., 2008, p. 156; Jensen et al., 2021; Langberg et al., 2013). 
+Attention Deficit Hyperactivity Disorder (ADHD) is usually diagnosed in childhood, with 75% of the diagnosis persisting into adolescence. Around 4 to 6% of adolescents have been diagnosed with ADHD. However, this is the age range where most people are either studying in higher education or working. This means that the disorder can start manifesting itself in new ways, as there are different responsibilities and expectations (Barkley et al., 2008, p. 156; Jensen et al., 2021; Langberg et al., 2013). 
 
-The hyperactive and impulsivity facets of the disorder regularly decline during the transition between childhood and adolescense. The attention facet often remains constant or get amplified. The attention deficit often expresses itself in academic and professional situations. The deficit can be a concern, however it is often paired with hyperfocus. When there is an hyperfocus present, it can be trying to focus on anything else but the hyperfocus subject (Groen et al., 2020; ). This functions the same when in a social enviroment. People with ADHD often have trouble picking up on social cues and continuing conversations if it is not about their prevered subject (Uekermann et al., 2010; Willcutt et al., 2005)).
+The hyperactive and impulsivity facets of the disorder regularly decline during the transition between childhood and adolescence. The attention facet often remains constant or get amplified. The attention deficit often expresses itself in academic and professional situations. The deficit can be a concern, however it is often paired with hyperfocus. When there is an hyperfocus present, it can be trying to focus on anything else but the hyperfocus subject (Groen et al., 2020; ). This functions the same when in a social environment. People with ADHD often have trouble picking up on social cues and continuing conversations if it is not about their preferred subject (Uekermann et al., 2010; Willcutt et al., 2005)).
 
-Another facet to consider is the executive disfunction one, which can reflect in poor planning, judgement and emotional control. Executive funtion is referencing the capability to self-regulate. This is the facet that this research is going to be focused on, as it is responsible for the capability to plan, gain gratification, persistence of intention, control of attention and mood (Antshel et al., 2010; Barkley et al., 2008).
+Another facet to consider is the executive disfunction one, which can reflect in poor planning, judgement and emotional control. Executive function is referencing the capability to self-regulate. This is the facet that this research is going to be focused on, as it is responsible for the capability to plan, gain gratification, persistence of intention, control of attention and mood (Antshel et al., 2010; Barkley et al., 2008).
 
-The challenges that adolescents with ADHD face are often within their jobs or academics, in part due to poor organisation of time and trouble maintaining routines. These challenges are often met with taking medication to lessen the symptomes of the disorder. However, this is not an option for everyone due to the side effects. This warrents looking for a different options. Another option is therapy, such as Goal Management Training. This can help people with ADHD set goals and manage their projects (Langberg et al., 2008; Fabio & Caprì, 2017; Jensen et al., 2021). 
+The challenges that adolescents with ADHD face are often within their jobs or academics, in part due to poor organization of time and trouble maintaining routines. These challenges are often met with taking medication to lessen the symptoms of the disorder. However, this is not an option for everyone due to the side effects. This warrants looking for a different options. Another option is therapy, such as Goal Management Training. This can help people with ADHD set goals and manage their projects (Langberg et al., 2008; Fabio & Caprì, 2017; Jensen et al., 2021). 
 
 Nonetheless, there is not a tool geared specifically towards people with ADHD to customize to their liking, to set goals in and manage what their are working on. The goal of this research is to determine, between a pool of participants, what people with ADHD want within management tool and how they prefer to plan their day, week or project. 
 
 The main research question in this instance is "**What ways of project management work for individuals with Attention Deficit Hyperactivity Disorder?**"
 
-This main question can be divided in subquestions:
+This main question can be divided in sub-questions:
 - What motivates someone with ADHD to plan?
-- How does colour use affect planning?
+- How does color use affect planning?
 - What is a more effective way of showing a planning, a day, week or month view and why?
 - How does a list of repeating tasks influence the way people with ADHD plan?
 
 ## Materials and Method
-To get answers to the subquestions and eventually the main question, a survey will be conveyed amongst people with adhd. This survey will consist of a pair of questions per subquestion to get a clear overview of the needs and wants of the target audience.  
-For subquestion one "What motivates someone with ADHD to plan?" the questions will be as follows:
+To get answers to the sub-questions and eventually the main question, a survey will be conveyed amongst people with ADHD. This survey will consist of a pair of questions per sub-question to get a clear overview of the needs and wants of the target audience.  
+For sub-question one "What motivates someone with ADHD to plan?" the questions will be as follows:
 - What motivates you to make a planning?
   - Achieving goals or objectives
   - Feeling organized and in control
@@ -40,7 +40,7 @@ For subquestion one "What motivates someone with ADHD to plan?" the questions wi
   - Seeking feedback or advice from others
   - Other (please specify): _______
 
-Subquestion two can be divided into two different questions for the survey:
+Sub-question two can be divided into two different questions for the survey:
 - How important do you consider color use in planning? 
   - In a 1 to 10 format
 - In what ways do you think color use affects planning? It can affect:
@@ -51,7 +51,7 @@ Subquestion two can be divided into two different questions for the survey:
   - Readability
   - Other (please specify): _______
 
-Subquestion three:
+Sub-question three:
 - Which view do you find more effective for planning?
   - Day view
   - Week view
@@ -66,7 +66,7 @@ Subquestion three:
   - It allows for easier collaboration or communication with others.
   - Other (please specify): _______
 
-Subquestion four:
+Sub-question four:
 - Do you use a list of repeating tasks to plan your schedule?
   - Yes
   - No
@@ -82,25 +82,25 @@ Subquestion four:
 These questions will be put in a microsoft forms format. This was chosen because it is a reliable way to get answers from the target audience. Another reason was that this can already generate graphs and data analytics for the user. 
 
 ## Results
-The questionaire has been filled in 25 times. In all 25 of these, the user specified that they are a person with ADHD. This means that all the responses are in line with the target audience for this research. 
+The questionnaire has been filled in 25 times. In all 25 of these, the user specified that they are a person with ADHD. This means that all the responses are in line with the target audience for this research. 
 
-For question 2, What motivates you to make a planning?, the main answer was "Achieving goals or objectives" with 19 picks. However also "Saving time and money", "Reducing stress or anxiety" and "Meeting deadlines or expectations" had a high pickrate with 13 picks each. 
+For question 2, What motivates you to make a planning?, the main answer was "Achieving goals or objectives" with 19 picks. However also "Saving time and money", "Reducing stress or anxiety" and "Meeting deadlines or expectations" had a high pick rate with 13 picks each. 
 
 ![results of question 2](Images/../../Images/Question2.png)
 
 Question 3, How do you stay motivated to plan?, was more divided in the answers. In the top 3 were the answers:
 
 1. Setting specific goals or targets (16)
-2. Breaking tasks down into smaller,managable steps (13)
+2. Breaking tasks down into smaller, manageable steps (13)
 3. Engaging in regular check-ins or reviews to evaluate progress (12)
 
 ![results of question 3](Images/../../Images/Question3.png)
 
-When asked how important colour is considered in planning, an average rating of 7,28 was given. With 24%, the most picked number was 6. 
+When asked how important color is considered in planning, an average rating of 7,28 was given. With 24%, the most picked number was 6. 
 
 ![results of question 4](Images/../../Images/Question%204.png)
 
-The most important use of colour seems to be "Attention drawing" (16) and "Usability and accessibility" (13). However, it also became more clear that "Mood" (10) is a big factor in choosing what colour to use. Ones mood can als be affected by the colour use, which makes it important to have colour schemes.
+The most important use of color seems to be "Attention drawing" (16) and "Usability and accessibility" (13). However, it also became more clear that "Mood" (10) is a big factor in choosing what color to use. Ones mood can als be affected by the color use, which makes it important to have color schemes.
 
 ![results of question 5](Images/../../Images/Question5.png)
 
@@ -108,7 +108,7 @@ As for what the most efficient way of viewing the schedule is, the opinions were
 
 ![results of question 6](Images/../../Images/Question6.png)
 
-Details were the most chosen reason for prefering a specific way of showing a schedule. Collaboration and visualization were the next highest up. It is important to have multiple options when it comes to planning with ADHD. That way they can chose what works best for them and switch back and forth.
+Details were the most chosen reason for preferring a specific way of showing a schedule. Collaboration and visualization were the next highest up. It is important to have multiple options when it comes to planning with ADHD. That way they can chose what works best for them and switch back and forth.
 
 ![results of question 7](Images/../../Images/Question7.png)
 
@@ -120,7 +120,7 @@ Details were the most chosen reason for prefering a specific way of showing a sc
 The results are, as expected, spread out. This has to be taken into account when drawing the conclusions.
 
 ## Conclusion
-The way that this reseach has been conducted resulted in a very varied result and thus conclusion. Every person with ADHD is different and will respond differently to the stimuli. A way to combat this in making the application is by giving different options. Thus there will be a day, week and month view that can be switched between and different colour schemes to fit with the person. As for the recurring tasks, there will be the option to make a list of recurring tasks but this will be an option. 
+The way that this research has been conducted resulted in a very varied result and thus conclusion. Every person with ADHD is different and will respond differently to the stimuli. A way to combat this in making the application is by giving different options. Thus there will be a day, week and month view that can be switched between and different color schemes to fit with the person. As for the recurring tasks, there will be the option to make a list of recurring tasks but this will be an option. 
 
 The research would have been more conclusive if more questions would have been put out and if there would have been a control group. However, due to the scale and manpower on this research this was not possible. 
 
